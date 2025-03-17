@@ -1,4 +1,5 @@
-# Recommended to use Java 21
+# Recommended to use Java 23
+- Download java at: https://www.oracle.com/java/technologies/downloads/
 
 # Function keys
 - **C**: Zoom
